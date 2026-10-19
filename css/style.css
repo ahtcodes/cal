@@ -1,0 +1,106 @@
+body {
+padding:0px;
+margin:0px;
+font-size:12px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+background:url(../img/mainbackground.jpg) no-repeat center;
+}
+
+.calculator {
+width:600px;
+margin-left:auto;
+margin-right:auto;
+overflow:hidden;
+padding-top:25px;
+}
+
+.display {
+width:500px;
+margin-left:auto;
+margin-right:auto;
+overflow:hidden;
+}
+
+.display-cal {
+width:90%;
+height:110px;
+border:1px solid #FFFFFF;
+background:none;
+text-align:right;
+font-size:60px;
+color:#FFFFFF;
+border-radius:27px;
+padding:20px;
+}
+
+.input-area {
+width:500px;
+margin-left:auto;
+margin-right:auto;
+overflow:hidden;
+}
+
+.ia-in {
+width:100%;
+overflow:hidden;
+padding-top:34px;
+}
+
+button {
+width:120px;
+height:60px;
+background:none;
+border-radius:27px;
+border:1px solid #FFFFFF;
+font-size:30px;
+color:#FFFFFF;
+}
+
+.iain-1 {
+width:240px;
+height:60px;
+background:none;
+border-radius:27px;
+border:1px solid #CCCCCC;
+font-size:33px;
+color:#CCCCCC;
+}
+
+.iain-2 {
+width:120px;
+height:60px;
+background:none;
+border-radius:27px;
+border:1px solid #CCCCCC;
+font-size:30px;
+color:#CCCCCC;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
